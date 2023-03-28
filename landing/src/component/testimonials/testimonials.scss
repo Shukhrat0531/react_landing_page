@@ -1,0 +1,23 @@
+.people{
+	display:flex;
+	width: 360px;
+	height:170px;
+
+	.people_img{
+		border-radius:50%;
+	}
+	.people_content{
+		padding:10px;
+	}
+	.people_i{
+		padding:15px;
+	}
+	.people_p{
+		font-size:14px;
+		color:gray;
+	}
+}
+.people_container{
+	flex-wrap:wrap;
+	margin-top:50px;
+}

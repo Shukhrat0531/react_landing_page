@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@0;1&family=Raleway:wght@700&display=swap');
+
+
+.navbar{
+    position: fixed;
+    width: 100%;
+    font-family: 'Lato', sans-serif;
+}
+.navbar_brand{
+    font-size: 30px;
+    font-weight: 700;
+
+}
+.me-auto{
+    margin-left: 50px;
+    .header_item{
+       margin-left: 50px;
+       color: rgb(27, 27, 27);
+       padding-top: 15px;
+       padding-bottom: 15px;
+   }
+}

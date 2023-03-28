@@ -1,0 +1,39 @@
+.container{
+	display:flex;
+	justify-content:center;
+	
+
+
+
+	.card{
+		width:280px;
+		height:292px;
+		border:0;
+		padding-right: 15px;
+        padding-left: 15px;
+
+	}
+	.card_icon{
+		font-size:38px;
+		background:linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+		color:white;
+		border-radius:50%;
+		width:100px;
+		height:100px;
+		padding:0 30px;
+		margin:auto;
+
+	}
+	h3{
+		font-weight: 300;
+	}
+	p{
+		font-weight:100;
+	}
+
+	}
+
+.features_title{
+	text-align:center;
+	margin:25px auto;
+}	

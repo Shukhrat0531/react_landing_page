@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap');
+
+.services{
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.w-100{
+	background:linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+
+
+	.our_services{
+		text-align:center;
+		color:white;
+		font-weight:800;
+		padding-top:70px;
+		font-family: 'Raleway', sans-serif;
+	}
+	.services_content{
+		text-align:center;
+		color: white;
+		font-weight:300;
+		padding-top:30px;
+		padding-bottom:30px;
+		font-size:18px;
+
+	}
+}
+.card_services{
+	width:320px;
+	height:292px;
+	border:0;
+	padding-right: 15px;
+    padding-left: 15px;
+    text-align:center;
+    color:white;
+}
+.card_icon{
+	margin:auto;
+
+
+}
